@@ -1,6 +1,6 @@
-# 💰 Personal Finance Intelligence Platform
+# Personal Finance Intelligence Platform
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Business Problem](#business-problem)
