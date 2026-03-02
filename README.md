@@ -60,9 +60,9 @@ Developed a **3-phase data science pipeline** that delivers:
 - Created reusable data processing scripts
 
 ### Phase 2: Machine Learning
-- **Random Forest Regressor**: Predicted transaction amounts (R² = 0.48)
+- **Random Forest Regressor**: Predicted transaction amounts 
 - **XGBoost**: Alternative prediction model with feature importance analysis
-- **Isolation Forest**: Detected 62 anomalous transactions (5.07% flagged)
+- **Isolation Forest**: Detected 62 anomalous transactions 
 - **K-Means Clustering**: Identified 2 distinct spending personas
 - **ARIMA Time Series**: Forecasted 6-month expenses with confidence intervals
 
